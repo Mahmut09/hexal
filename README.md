@@ -1,1 +1,1 @@
-# hexal
+# Hexal
